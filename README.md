@@ -1,1 +1,1 @@
-# coinflip
+# alt3_coinflip
